@@ -1,0 +1,1 @@
+The Kd Tool is made to simplify analysis of gel images for researchers. Specifically for generating Kd curves from gels that resemble electrophoretic mobility shift assays or binding assays, it will search for two lines of increasing and decreasing intensity in the horizontal axis and seek to quantify them. File name and number of samples are entered at the command line. 
